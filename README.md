@@ -40,10 +40,36 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2048%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+CSS                      1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.61% 
+JavaScript               55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.42% 
+HTML                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+
+🔥 Editors: 
+VS Code                  3 hrs 48 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Weather-App              1 hr 46 mins        ███████████░░░░░░░░░░░░░░   46.6% 
+DAY 13                   1 hr                ██████░░░░░░░░░░░░░░░░░░░   26.42% 
+Harsh-Singh-Rajput       57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37% 
+ExpensorApp              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
+
+💻 Operating System: 
+Windows                  3 hrs 48 mins       █████████████████████████   100.0%
+
+```
 
 
- Last Updated on 19/11/2022 18:41:09 UTC
+ Last Updated on 20/11/2022 10:48:06 UTC
 <!--END_SECTION:waka-->
 
 
