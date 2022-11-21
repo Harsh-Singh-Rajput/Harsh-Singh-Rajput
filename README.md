@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2042%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -70,7 +70,7 @@ Windows                  8 hrs 42 mins       ███████████�
 ```
 
 
- Last Updated on 21/11/2022 17:23:18 UTC
+ Last Updated on 21/11/2022 18:43:36 UTC
 <!--END_SECTION:waka-->
 
 
