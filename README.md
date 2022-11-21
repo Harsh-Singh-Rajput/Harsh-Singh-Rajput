@@ -15,7 +15,7 @@ Hi, I'm [Harsh](https://twitter.com/Harsh7902), A passionate Full stack web deve
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img alt="GIF" src="https://github.com/Harsh-Singh-Rajput/Harsh-Singh-Rajput/blob/main/animated.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://raw.githubusercontent.com/Harsh-Singh-Rajput/Harsh-Singh-Rajput/master/animated.gif" width="720" height="360" />
   
 - 💼 Contact me ? , [email](mailto:hs98215479@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
