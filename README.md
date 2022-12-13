@@ -40,10 +40,37 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2023%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               10 hrs 2 mins       █████████████░░░░░░░░░░░░   51.99% 
+EJS                      4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49% 
+HTML                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
+CSS                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.36% 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
+
+🔥 Editors: 
+VS Code                  19 hrs 19 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Url-Shortener            9 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.89% 
+Backend Devsnest         8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   42.84% 
+BackEnd-Lecture          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
+Blog-With-Database-final 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
+ExpensorApp              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+
+💻 Operating System: 
+Windows                  19 hrs 19 mins      █████████████████████████   100.0%
+
+```
 
 
- Last Updated on 12/12/2022 18:39:41 UTC
+ Last Updated on 13/12/2022 18:39:19 UTC
 <!--END_SECTION:waka-->
 
 
