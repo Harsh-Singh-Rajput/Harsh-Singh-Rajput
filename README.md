@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,22 +48,24 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               34 mins             ███████████████████████░░   95.43% 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.57%
+JavaScript               34 mins             ███████████████████░░░░░░   78.1% 
+Text                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.0%
+VS Code                  44 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Url-Shortener            36 mins             █████████████████████████   100.0%
+Url-Shortener            36 mins             ████████████████████░░░░░   81.85% 
+test                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.15%
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.0%
+Windows                  44 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/12/2022 18:37:14 UTC
+ Last Updated on 21/12/2022 18:37:12 UTC
 <!--END_SECTION:waka-->
 
 
