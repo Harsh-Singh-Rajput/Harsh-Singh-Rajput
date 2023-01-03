@@ -40,10 +40,34 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2017%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   1 hr 55 mins        ███████████████████████░░   92.91% 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+
+🔥 Editors: 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Python                   1 hr 15 mins        ███████████████░░░░░░░░░░   60.53% 
+DevsNest Bootcamp        45 mins             █████████░░░░░░░░░░░░░░░░   36.66% 
+hs982                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81%
+
+💻 Operating System: 
+Windows                  2 hrs 4 mins        █████████████████████████   100.0%
+
+```
 
 
- Last Updated on 02/01/2023 18:36:41 UTC
+ Last Updated on 03/01/2023 18:36:29 UTC
 <!--END_SECTION:waka-->
 
 
