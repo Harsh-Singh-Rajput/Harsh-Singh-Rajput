@@ -75,7 +75,7 @@ Windows                  20 hrs 34 mins      ███████████�
 
 📈 **My Github Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Singh-Rajput&show_icons=true&theme=gotham" alt="Harsh-Singh-Rajput" />
+<p align="center"> <img src="https://github-readme-stats-fijefwngy-harsh-singh-rajput.vercel.app/api?username=Harsh-Singh-Rajput&show_icons=true&theme=gotham" alt="Harsh-Singh-Rajput" />
 
 [![Please reload page for activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harsh-Singh-Rajput&custom_title=Harsh's%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/Harsh-Singh-Rajput/github-readme-activity-graph)
 
