@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,22 +47,27 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ███████████████████████░░   92.11 % 
-JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Python                   52 mins             ███████████████░░░░░░░░░░   62.77 % 
+JavaScript               28 mins             ████████░░░░░░░░░░░░░░░░░   34.61 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Python                   2 hrs 29 mins       █████████████████████████   100.00 % 
+Python                   1 hr 4 mins         ███████████████████░░░░░░   76.85 % 
+Day 18 (tic-tac-toe)     17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+tic-tac-toe              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 17/02/2023 18:37:41 UTC
+ Last Updated on 18/02/2023 18:35:48 UTC
 <!--END_SECTION:waka-->
 
 
