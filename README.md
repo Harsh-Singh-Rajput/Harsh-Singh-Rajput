@@ -82,7 +82,7 @@ Windows                  18 hrs 53 mins      ███████████�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#80](https://github.com/keikaavousi/fake-store-api/issues/80) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
-2. 💪 Opened PR [#1](https://github.com/Harsh-Singh-Rajput/Backend-Devsnest/pull/1) in [Harsh-Singh-Rajput/Backend-Devsnest](https://github.com/Harsh-Singh-Rajput/Backend-Devsnest)
+2. 🗣 Commented on [#80](https://github.com/keikaavousi/fake-store-api/issues/80) in [keikaavousi/fake-store-api](https://github.com/keikaavousi/fake-store-api)
 3. 🎉 Merged PR [#1](https://github.com/Harsh-Singh-Rajput/URL-Shrinker/pull/1) in [Harsh-Singh-Rajput/URL-Shrinker](https://github.com/Harsh-Singh-Rajput/URL-Shrinker)
 4. 💪 Opened PR [#1](https://github.com/Harsh-Singh-Rajput/URL-Shrinker/pull/1) in [Harsh-Singh-Rajput/URL-Shrinker](https://github.com/Harsh-Singh-Rajput/URL-Shrinker)
 5. 🗣 Commented on [#2437](https://github.com/LibreLingo/LibreLingo/issues/2437) in [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo)
