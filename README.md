@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,21 +47,23 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     7 mins              ███████████████████████░░   90.25 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+JSON                     12 mins             ████████████████████████░   94.58 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Microsoft-Rewards-bot-GUI7 mins              █████████████████████████   100.00 % 
+Microsoft-Rewards-bot-GUI8 mins              ███████████████░░░░░░░░░░   60.40 % 
+matrix-rewards-win       5 mins              ██████████░░░░░░░░░░░░░░░   39.60 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2023 18:32:43 UTC
+ Last Updated on 24/05/2023 18:32:39 UTC
 <!--END_SECTION:waka-->
 
 
