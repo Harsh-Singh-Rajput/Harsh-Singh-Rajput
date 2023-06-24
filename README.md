@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,21 +47,25 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     43 mins             ██████████████████████░░░   86.08 % 
-JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Text                     1 hr 28 mins        ████████████████████░░░░░   80.30 % 
+JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TopG-Bot-main            50 mins             █████████████████████████   100.00 % 
+TopG-Bot-main            1 hr 35 mins        ██████████████████████░░░   86.77 % 
+youtube-react-shop-ui    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+youtube-mern-ecommerce-ap0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2023 18:36:26 UTC
+ Last Updated on 24/06/2023 18:36:01 UTC
 <!--END_SECTION:waka-->
 
 
