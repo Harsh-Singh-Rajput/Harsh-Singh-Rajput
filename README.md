@@ -47,21 +47,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               0 secs              ███████████████░░░░░░░░░░   59.13 % 
-JSON                     0 secs              ██████████░░░░░░░░░░░░░░░   40.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Sphere-Threejs           1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2023 18:32:34 UTC
+ Last Updated on 23/07/2023 18:32:36 UTC
 <!--END_SECTION:waka-->
 
 
