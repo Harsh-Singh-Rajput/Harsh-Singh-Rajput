@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,25 +47,25 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     4 hrs 39 mins       ██████████████████████░░░   86.24 % 
-JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TSQL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Text                     5 hrs 29 mins       ██████████████████████░░░   88.16 % 
+JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+TSQL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TopG-Bot-main            3 hrs 44 mins       █████████████████░░░░░░░░   69.33 % 
-Ids Password             1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Strivers-SDE-Sheet-Challe0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TopG-Bot-main            4 hrs 34 mins       ██████████████████░░░░░░░   73.42 % 
+Ids Password             1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Strivers-SDE-Sheet-Challe0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  5 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/09/2023 18:32:57 UTC
+ Last Updated on 04/09/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
 
 
