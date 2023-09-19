@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,24 +47,25 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     4 hrs 32 mins       █████████████████████░░░░   85.14 % 
-JavaScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Text                     4 hrs 50 mins       ███████████████████░░░░░░   76.12 % 
+JavaScript               1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ActionScript             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TopG-Bot-main            5 hrs 13 mins       █████████████████████████   98.09 % 
-TopG-Bot-main (1)        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TopG-Bot-main            6 hrs 8 mins        ████████████████████████░   96.60 % 
+update                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+TopG-Bot-main (1)        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/09/2023 18:33:43 UTC
+ Last Updated on 19/09/2023 18:33:57 UTC
 <!--END_SECTION:waka-->
 
 
