@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2020%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,22 +47,22 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     4 hrs 10 mins       ████████████████████░░░░░   79.35 % 
-JavaScript               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Text                     4 hrs 47 mins       ███████████████████░░░░░░   75.32 % 
+JavaScript               1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TopG-Bot-main            5 hrs 15 mins       █████████████████████████   100.00 % 
+TopG-Bot-main            6 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/10/2023 18:32:40 UTC
+ Last Updated on 26/10/2023 18:33:07 UTC
 <!--END_SECTION:waka-->
 
 
