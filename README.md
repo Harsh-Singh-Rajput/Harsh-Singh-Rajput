@@ -39,8 +39,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![@harshsinghrajput's Holopin board](https://holopin.me/harshsinghrajput)](https://holopin.io/@harshsinghrajput)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%206%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -60,7 +58,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 20:16:24 UTC
+ Last Updated on 22/05/2026 20:16:02 UTC
 <!--END_SECTION:waka-->
 
 
